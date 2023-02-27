@@ -1,0 +1,15 @@
+export const initialState = {
+	produccionData: [],
+	campos: [],
+	cuadrillas: [],
+	trabajadores: [],
+	variedades: [],
+	formatoCosechas: [],
+	contratistas: [],
+	equipos: [],
+	calidades: [],
+	cuarteles: [],
+	varidades: [],
+	sectores: [],
+	especies: [],
+};

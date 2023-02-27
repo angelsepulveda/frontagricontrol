@@ -1,0 +1,26 @@
+#chart-detallado.pointer-on-bars .dxc-series rect {
+	cursor: pointer;
+}
+
+#chart {
+	height: 100%;
+	width: 100%;
+}
+
+#charDiario {
+	height: 440px;
+	width: 100%;
+}
+
+.button-container {
+	text-align: center;
+	height: 40px;
+}
+
+.container-char {
+	align-items: center;
+}
+
+#chart.pointer-on-bars .dxc-series rect {
+	cursor: pointer;
+}

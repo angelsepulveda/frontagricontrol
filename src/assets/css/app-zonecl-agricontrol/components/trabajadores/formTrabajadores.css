@@ -1,0 +1,20 @@
+.first-group {
+    padding: 40px 0 0 0;
+    border-top: #888888 1px solid;
+    margin-bottom: 33px;
+}
+.second-group{
+    padding-top: 34px;
+}
+
+#summary {
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    .check-ajustar{
+        margin-top: 0
+    }
+}

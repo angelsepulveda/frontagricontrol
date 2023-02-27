@@ -1,0 +1,13 @@
+* {
+	font-size: 14px;
+}
+
+.dx-texteditor.dx-editor-filled.dx-state-disabled .dx-texteditor-input {
+	color: black;
+	font-weight: bold;
+	background-color: #f3f3f3;
+}
+
+#miDatagrid.dx-datagrid {
+	border: none;
+}

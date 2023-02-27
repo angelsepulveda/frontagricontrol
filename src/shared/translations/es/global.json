@@ -1,0 +1,303 @@
+{
+	"locale": "es",
+	"temporadas": {
+		"title": "Temporadas",
+		"excel": "ListadosDeTemporadas",
+		"temporada": "Temporada",
+		"inicio": "Inicio",
+		"termino": "Fin",
+		"formulario": "Formulario de Temporadas"
+	},
+	"usuarios": {
+		"title": "Usuarios",
+		"excel": "ListadosDeUsuarios",
+		"productor": "Productor",
+		"avatar": "Avatar",
+		"rol": "Rol",
+		"formulario": "Formulario de Usuarios"
+	},
+	"login": {
+		"title": "Inicio de Sesión",
+		"button": "Iniciar Sesión",
+		"recordarme": "Recordarme",
+		"recuperarPassword": "Recuperar Contraseña"
+	},
+	"localidades": {
+		"title": "Localidades",
+		"excel": "ListadosDeLocalidades",
+		"localidad": "Localidad"
+	},
+	"paises": {
+		"title": "Paises",
+		"excel": "ListadosDePaises",
+		"gentilicio": "Gentilicio",
+		"registrar": "Registrar un nuevo País"
+	},
+	"formatosCosechas": {
+		"title": "Formatos de Cosechas",
+		"excel": "ListadosDeFormatosCosechas",
+		"descripcion": "Descripción",
+		"pesoMaximo": "Peso Maximo",
+		"pesoMinimo": "Peso Minimo",
+		"validarPeso": "Validar Peso",
+		"valorPromedio": "Valor Promedio",
+		"unidadMedidas": "Unidad Medida",
+		"tipoRecoleccion": "Tipo Recolección",
+		"unidadPesar": "Unidades a Pesar"
+	},
+	"regiones": {
+		"title": "Regiones",
+		"excel": "ListadosDeRegiones",
+		"registrar": "Registrar un nueva Región",
+		"validacion": "Debe seleccionar una región"
+	},
+	"calidades": {
+		"title": "Calidades",
+		"excel": "ListadosDeCalidades",
+		"abreviaciones": "Abreviaciones"
+	},
+	"validations": {
+		"maxLength": "Máximo {{max}} caracteres",
+		"rangeLength": "{{min}} a {{max}} caracteres",
+		"required": "El dato es requerido",
+		"decimal": "El dato debe ser decimal",
+		"email": "El email es invalido",
+		"telefono": "El numero de celular debe ser valido",
+		"max100": "El valor no puede superar el valor de 100"
+	},
+	"common": {
+		"pais": "Paises",
+		"comuna": "Comuna",
+		"campos": "Campos",
+		"estado": "Estado",
+		"especie": "Especie",
+		"calidad": "Calidad",
+		"variedad": "Variedad",
+		"nombreCorto": "Nombre Corto",
+		"nemoTecnico": "NemoTécnico",
+		"region": "Región",
+		"campo": "Campo",
+		"formatoCosecha": "Formato Cosecha",
+		"nombre": "Nombre",
+		"dni": "DNI",
+		"email": "Email",
+		"celular": "Celular",
+		"fono": "Fono",
+		"giro": "Giro",
+		"razonSocial": "Razón Social",
+		"formularioDirecciones": "Datos de las Direcciones",
+		"predeterminada": "Predeterminada",
+		"guardar": "Guardar",
+		"cancelar": "Cancelar",
+		"selectPais": "Seleccione un País",
+		"selectRegion": "Seleccione una Región",
+		"selectEspecie": "Seleccione una Especie",
+		"fechaDesde": "Fecha Desde",
+		"fechaHasta": "Fecha Hasta",
+		"regresar": "Regresar",
+		"fecha": "Fecha",
+		"cuartel": "Cuartel",
+		"Contratista": "Contratista",
+		"empleado": "Empleado",
+		"cuadrilla": "Cuadrilla",
+		"formato": "Formato",
+		"numeroBandejas": "Numero Bandejas",
+		"kilos": "Kilos",
+		"tipoInforme": "Tipo de Informe",
+		"generarInforme": "Generar Informe",
+		"rut": "Rut",
+		"contratista": "Contratista",
+		"reportes": "Reportes",
+		"mantenedores": "Mantenedores",
+		"generales": "Generales",
+		"cosechas": "Cosechas",
+		"superficie": "Superficie",
+		"anioPlantacion": "Año Plantación",
+		"sector": "Sector",
+		"equipo": "Equipo",
+		"listadoTrabajadores": "Listado de Traabajadores",
+		"primerApellido": "Primer Apellido",
+		"segundoApellido": "Segundo Apellido",
+		"nombres": "Nombres",
+		"search": "Buscar...",
+		"seleccionarTrabajadores": "Seleccionar Trabajadores",
+		"nombreSocial": "Nombre Social",
+		"sexo": "sexo",
+		"grupoBins": "Grupo Bins",
+		"password": "Contraseña",
+		"perfil": "Perfil",
+		"cerrarSesion": "Cerrar Sesión",
+		"aceptar": "Aceptar",
+		"errores": "Ha ocurrido un error....",
+		"erroresValidaciones": "Ha ocurrido unos errores de validaciones...",
+		"errorConexion": "Ha ocurrido un error en la conexión.Intente nuevamente",
+		"registro": "Se registró correctamente",
+		"actualizo": "Se actualizó correctamente",
+		"elimino": "Se eliminó correctamente",
+		"siguiente": "Siguiente",
+		"atras": "Atras",
+		"trabajador": "Trabajador",
+		"totalRegistrosSeleccionados": "El total de registros seleccionados: ",
+		"eliminar": "Eliminar",
+		"modificar": "modificar",
+		"preguntaEliminarRegistros": "¿Desea eliminar los registros seleccionado?",
+		"preguntaModificarRegistros": "¿Desea modificar los registros seleccionado?",
+		"validacionSeleccion": "Debes seleccionar al menos un registro",
+		"sinResultados": "No se encontraron resultados",
+		"fechaCaptura": "Fecha de captura",
+		"fechaNacimiento": "Fecha de nacimiento",
+		"direccion": "Dirección"
+	},
+	"tratos": {
+		"title": "Tratos",
+		"excel": "ListadoDeTratos",
+		"trato": "Trato"
+	},
+	"variedades": {
+		"title": "Variedades",
+		"excel": "ListadoDeVariedades",
+		"registrar": "Registrar una nueva Variedad",
+		"selectVariedad": "Seleccione una Variedad"
+	},
+	"especies": {
+		"title": "Especies",
+		"excel": "ListadoDeEspecies",
+		"registrar": "Registrar una Nueva Especies"
+	},
+	"equipos": {
+		"title": "Equipos",
+		"excel": "ListadoDeEquipos",
+		"alias": "Alias",
+		"macImei": "MacImei",
+		"descripcion": "Descripción",
+		"tipoEquipo": "Tipo de Equipo",
+		"ultimaSincronizacion": "Ultima Sincronización"
+	},
+	"comunas": {
+		"title": "Comunas",
+		"excel": "ListadoDeComunas",
+		"registrar": "Registrar un nueva Comuna",
+		"selectComuna": "Seleccione una Comuna",
+		"validacion": "Debe seleccionar una Comuna"
+	},
+	"contratistas": {
+		"title": "Contratistas",
+		"excel": "ListadosDeContratistas",
+		"web": "Web"
+	},
+	"campos": {
+		"title": "Campos",
+		"excel": "ListadoDeCampos",
+		"latitud": "Latitud",
+		"longitud": "Longitud",
+		"empresa": "Empresa",
+		"nombreCortoPoligono": "Nombre Corto Poligono",
+		"nombrePoligono": "Nombre Poligono"
+	},
+	"notFound": {
+		"title": "Página no encontrada",
+		"message": "La página que buscas no existe."
+	},
+	"empresas": {
+		"title": "Empresas",
+		"excel": "ListadoDeEmpresas",
+		"representanteLegal": "Representante Legal",
+		"dniRepresentanteLegal": "DNI Representante Legal",
+		"mutualidad": "Mutualidad",
+		"cajaCompensacion": "Caja de Compensación",
+		"factorCajaCompensacion": "Factor de Caja Compensación",
+		"ajustarSueldoMinimo": "Ajustar Sueldo Mínimo",
+		"formulario": "Formulario de Empresas",
+		"formularioRepresentante": "Datos del Representante Legal"
+	},
+	"direcciones": {
+		"calle": "Calle",
+		"numero": "Número",
+		"apartamento": "Apartamento",
+		"ciudad": "Ciudad",
+		"codigoPostal": "Código Postal",
+		"informacionAdicional": "Información Adicional",
+		"datosDirecciones": "Datos de las Direcciones",
+		"agregarDireccion": "Agregar dirección",
+		"validation": "Debe ingresar al menos una dirección predeterminada"
+	},
+	"dashboard": {
+		"title": "Dashboard",
+		"generarGrafico": "Generar Grafico",
+		"tituloGraficoProduccionRango": "Producción Cosecha desde",
+		"tituloGraficoTReal": "'Producción Cosecha del Día"
+	},
+	"cosechas": {
+		"informeCompleto": {
+			"title": "Informe Completo",
+			"titleCard": "Informe Completo"
+		},
+		"informeDiario": {
+			"title": "Informe Diario",
+			"titleCard": "Informe Diario"
+		},
+		"regularizacionProduccion": {
+			"titleForm": "Ingrese el filtro que desee, para buscar datos de produccion",
+			"titleDataGrid": "Datos a Regularizar",
+			"titleFormRegularizacion": "Ingreso Datos",
+			"validacion": "El campo y la especie son obligatorios"
+		}
+	},
+	"trabajadores": {
+		"title": "Trabajadores",
+		"excel": "ListadoDeTrabajadores",
+		"telefono1": "Telefono 1",
+		"telefono2": "Telefono 2",
+		"estadoCivil": "Estado Civil",
+		"banco": "Banco",
+		"tipoCuenta": "Tipo de Cuenta",
+		"numeroCuenta": "Numero de Cuenta",
+		"formaPago": "Forma de Pago",
+		"objetado": "Objetado",
+		"formulario": "Formulario de Trabajadores",
+		"datosPersonales": "Datos Personales",
+		"datosLaborales": "Datos Laborales",
+		"datosBancarios": "Datos Bancarios",
+		"estadoTrabajador": "Estado del Trabajador"
+	},
+	"cuadrillas": {
+		"title": "Cuadrillas",
+		"excel": "ListadoDeCuadrillas",
+		"jefeCuadrilla": "Jefe de Cuadrilla",
+		"formulario": "Formulario de Cuadrillas",
+		"datosGenerales": "Datos Generales",
+		"equipoJefeCuadrilla": "Equipo asignado al jefe de cuadrilla"
+	},
+	"sectores": {
+		"title": "Sectores",
+		"nombrePoligono": "Nombre del Polígono",
+		"nombreCortoPoligono": "Nombre Corto del Polígono",
+		"excel": "ListadoDeSectores"
+	},
+	"cuarteles": {
+		"title": "Cuarteles",
+		"excel": "ListadoDeCuarteles",
+		"organico": "Orgánico",
+		"productivo": "Productivo",
+		"formulario": "Formulario de Cuarteles",
+		"datosCuarteles": "Datos Cuarteles",
+		"tipoCobertura": "Tipo de Cobertura",
+		"densidadPlantacion": "Densidad de la Plantación",
+		"entreHilera": "Entre Hilera",
+		"sobreHilera": "Sobre Hilera",
+		"clasificacionDensidad": "Clasificación de Densidad",
+		"agregarVariedad": "Agregar Variedad",
+		"eliminarVariedad": "Eliminar Variedad",
+		"variedadesAsociadas": "Variedades Asociadas",
+		"haProductivas": "Ha. Productivas",
+		"numPlantas": "Numero de Plantas",
+		"numHileras": "Numero de Hileras",
+		"diaCosechaMin": "Dia Cosecha Frecuencia Mínima",
+		"diaCosechaMax": "Dia Cosecha Frecuencia Máxima",
+		"finalizaCosecha": "Finaliza Cosecha"
+	},
+	"lenguaje": {
+		"es": "Español",
+		"en": "Ingles"
+	}
+}
